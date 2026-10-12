@@ -4,7 +4,6 @@
 
 import java.util.Scanner;
 // utiliza el Scanner para que el programa pueda recibir datos escritos por el usuario//
-
 public class Main {
     public static void main (String[] args){
         Scanner s =  new Scanner(System.in);
